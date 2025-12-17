@@ -1,6 +1,5 @@
 # DL_final
 
-}
 
 # Comparing Vision Transformers and CNNs under Resource-Constrained Image Classification
 
@@ -136,12 +135,3 @@ CNNs remain competitive and often preferable under stricter resource and data co
 
 ---
 
-## Acknowledgements
-
-This project was completed as part of a course assignment on resource-constrained machine learning and image classification.
-
----
-
-## License
-
-This project is for educational and research purposes only.
